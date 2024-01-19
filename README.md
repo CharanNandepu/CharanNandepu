@@ -41,7 +41,6 @@
 
 <img src="https://raw.githubusercontent.com/CharanNandepu/CharanNandepu/output/snake.svg" alt="Snake animation" />
 
-###### Hi there 👋
 
 <!--
 **CharanNandepu/CharanNandepu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

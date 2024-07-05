@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Charan and I'm a Final Year Undergraduate, from Pragati Engineering College.</h2>
+<h2 align="center">Hi 👋! My name is Charan and I'm a Recent Graduate, from Pragati Engineering College.</h2>
 
 ###
 
